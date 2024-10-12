@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "977224384146",
+    "firebase_url": "https://cp422021-tharadol-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cp422021-tharadol",
+    "storage_bucket": "cp422021-tharadol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977224384146:android:67d94b5441f2a3dc74b04b",
+        "android_client_info": {
+          "package_name": "com.example.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977224384146-8akfcnmrlp7cdbrh63h6t96vf5kmetkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5aCx1S4KM3zowTtvTV3FibEf_pSSALYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977224384146-8akfcnmrlp7cdbrh63h6t96vf5kmetkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977224384146-oe1i1vhm99etk2r3dn56orj63d66qkmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nfcCheckAttendance"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977224384146:android:0cfad9a5d0553c5e74b04b",
+        "android_client_info": {
+          "package_name": "com.example.cyberfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977224384146-fq44b2kt2ri0de43kun1trhodmpjvcm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyberfood",
+            "certificate_hash": "602397314a2ca99ccf9705f2a0dddf395e1a8dca"
+          }
+        },
+        {
+          "client_id": "977224384146-8akfcnmrlp7cdbrh63h6t96vf5kmetkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5aCx1S4KM3zowTtvTV3FibEf_pSSALYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977224384146-8akfcnmrlp7cdbrh63h6t96vf5kmetkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977224384146-oe1i1vhm99etk2r3dn56orj63d66qkmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nfcCheckAttendance"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977224384146:android:4f66c029ec79427f74b04b",
+        "android_client_info": {
+          "package_name": "com.example.nfc_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977224384146-8akfcnmrlp7cdbrh63h6t96vf5kmetkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5aCx1S4KM3zowTtvTV3FibEf_pSSALYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977224384146-8akfcnmrlp7cdbrh63h6t96vf5kmetkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977224384146-oe1i1vhm99etk2r3dn56orj63d66qkmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nfcCheckAttendance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
